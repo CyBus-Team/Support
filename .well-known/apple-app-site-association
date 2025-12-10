@@ -1,0 +1,19 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "55X4R3755D.com.cybus.ios"
+                ],
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    },
+    "appclips": {
+        "apps": [
+            "55X4R3755D.com.cybus.ios.Clip"
+        ]
+    }
+}
